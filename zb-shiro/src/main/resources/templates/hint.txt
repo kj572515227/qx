@@ -1,0 +1,21 @@
+1.database        ->       monitoring.html      // SQL 监控
+2.error           ->       层级下的.html 均为报错页面
+3.fragments       ->       footer.html          // Login页面底部内容
+                           musicPlayer.html     // menu中左下角音乐播放器
+                           navbar.html          // menu中主框架及面包屑导航栏
+                           menu.html            // menu中左侧侧边栏
+4.home.fragments  ->       footer.html          // Login底部
+                           top.html             // Login 顶部内容
+5.index           ->       index.html           // 项目主页面
+                           workdest.html        // 工作台
+6.onlineUsers    ->        list.html            //  权限管理 --> 在线用户
+7.permission     ->        list.html            // 权限管理 --> 资源管理
+                           detail.html          // 权限管理  --> 资源管理 ---> 表格部分
+8.qhgl          ->         list.html            // 缺货管理界面
+9.role          ->         list.html            // 权限管理 --> 角色管理
+                           detail.html          // 权限管理  --> 角色管理 ---> 表格部分
+10.system       ->         login.html           // 登录界面
+                           kickout.html         // 踢出后重新登录
+11.ui           ->         icons.html           // 系统图标
+12.user         ->         list.html            // 权限管理 --> 用户管理
+                           userDetail.html      // 权限管理 --> 用户管理 ---> 弹窗

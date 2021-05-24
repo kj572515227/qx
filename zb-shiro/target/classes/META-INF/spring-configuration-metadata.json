@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.bi",
+      "type": "com.xingqing.config.BiDataBaseProperties",
+      "sourceType": "com.xingqing.config.BiDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.erp",
+      "type": "com.xingqing.config.ErpDataBaseProperties",
+      "sourceType": "com.xingqing.config.ErpDataBaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.bi.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.BiDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.bi.password",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.BiDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.bi.url",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.BiDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.bi.username",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.BiDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.erp.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.ErpDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.erp.password",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.ErpDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.erp.url",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.ErpDataBaseProperties"
+    },
+    {
+      "name": "spring.datasource.erp.username",
+      "type": "java.lang.String",
+      "sourceType": "com.xingqing.config.ErpDataBaseProperties"
+    }
+  ],
+  "hints": []
+}
